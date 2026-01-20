@@ -1,7 +1,7 @@
 # Đồ án CS229: Hệ thống Hỏi đáp Ngữ nghĩa (Computational Semantics)
 
 ##  Giới thiệu
-Đồ án xây dựng một hệ thống hỏi đáp tự động (QA System) cho miền dữ liệu hẹp (thông tin công ty, nhân viên, sở thích...). Hệ thống minh hoạ sự khác biệt giữa hai phương pháp tiếp cận:
+Đồ án xây dựng một hệ thống hỏi đáp tự động (QA System) cho miền dữ liệu hẹp. Hệ thống minh hoạ sự khác biệt giữa hai phương pháp tiếp cận:
 1.  **Logical Pipeline (Prolog):** Chuyển đổi ngôn ngữ tự nhiên sang cấu trúc ngữ nghĩa (DRS) và Logic bậc nhất (FOL).
 2.  **LLM (Large Language Model):** Sử dụng mô hình Llama-3 qua API Groq để suy luận trực tiếp.
 
